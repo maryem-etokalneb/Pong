@@ -23,4 +23,5 @@ public class PlayersMovements : MonoBehaviour
         transform.position=PlayerPosition;
         //transform.position += new Vector3(0, movement * speed * Time.deltaTime,0);
     }
+   
 }

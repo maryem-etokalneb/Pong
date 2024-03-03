@@ -37,6 +37,6 @@ public class GameManager : MonoBehaviour
         BallTransform.position=new Vector2(0,0);
     }
     
-
+  
 
 }
